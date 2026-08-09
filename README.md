@@ -50,6 +50,11 @@ The objective of this assignment is to develop an end-to-end Machine Learning pi
 
 ---
 
+## 3b. Live Streamlit App Link
+**Live App URL:** [https://mlassignment2-7tmja62s3eqjtnbvbo6zig.streamlit.app/](https://mlassignment2-7tmja62s3eqjtnbvbo6zig.streamlit.app/)
+
+---
+
 ## 4. Models Used
 
 Five classification algorithms were trained and fine-tuned using **5-Fold Cross Validation (`GridSearchCV`)** with a custom random state seed (`1307`). Features were standardized using `StandardScaler` before training.
